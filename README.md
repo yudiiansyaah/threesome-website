@@ -286,6 +286,6 @@ threesome-website
 
 # 📜 License
 
-Project ini menggunakan lisensi **![MIT License](LICENSE)**.
+Project ini menggunakan lisensi **[MIT License](LICENSE)**.
 
 Silakan menggunakan, memodifikasi, dan mendistribusikan project ini sesuai ketentuan lisensi.
