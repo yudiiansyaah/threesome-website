@@ -70,9 +70,9 @@ Tools
 
 ---
 
-# 📦 Persiapan Sebelum Menjalankan Project
+# 📦 Instalasi Depedencies Sebelum Menjalankan Project
 
-Pastikan software berikut sudah terinstall di komputer Anda:
+Pastikan software berikut sudah terinstall di komputer Kalian:
 
 1. Node.js (versi 18 atau lebih baru)
 2. npm
@@ -252,7 +252,7 @@ Setelah server berjalan, buka browser dan akses:
 http://localhost:3000
 ```
 
-Website akan tampil di browser Anda.
+Website akan tampil di browser Kalian.
 
 ---
 
